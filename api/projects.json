@@ -14,7 +14,7 @@
         ],
         "year":2016,
         "repositoryUrl":"https://github.com/kmhoran/GamesJs",
-        "about": "<p>I was really excited to make this a couple years back when I encountered a new jQuery pattern that blew my mind. It centers around a core Project object which functions a lot like $scope does in Angular.</p><p>I don't use jQuery much these days, but I still consider this a very valuable reference.</p>"
+        "about": "<p>I was really excited to make this a couple years back when I encountered a new jQuery pattern that blew my mind. It centers around a core Project object which functions a lot like $score does in Angular.</p><p>I don't use jQuery much these days, but I still consider this a very valuable reference.</p>"
     },
     {
         "id": "1",
